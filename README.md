@@ -3,7 +3,7 @@ SQL Query
 # SQL Sales Analysis
 I analyzed soap sales data using SQL.
 
-## Query is available in the fileSQLQuery.sql
+## 1. Query is available in the fileSQLQuery.sql
 
 ## Goal: 
 to identify best-selling products.
