@@ -22,3 +22,9 @@ The analysis also shows that "Black Orchid Luxury Bar" is the product with the h
 Review of total revenue, total cost, shipping cost and calculation of overall profit.
 ## Insight: 
 Overall profit is 2537.40 EUR.
+
+## 4. Query is available in the SQLQuery4.sql
+## Goal: 
+Overview of the top 3 customers who spent the most money based on completed orders.
+## Insight: 
+Top 3 customers have IDs: 1, 10, 18.
