@@ -1,6 +1,6 @@
 # sql-sales-analysis
 SQL Query
-
+# SQL Sales Analysis
 I analyzed soap sales data using SQL.
 
 ## Query is available in the fileSQLQuery.sql
