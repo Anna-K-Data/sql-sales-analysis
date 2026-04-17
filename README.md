@@ -9,3 +9,10 @@ I analyzed soap sales data using SQL.
 To identify best-selling products.
 ## Insight: 
 The analysis shows that "Black Orchid Luxury Bar" is one of the best-selling products.
+
+## 2. Query is available in the SQLQuery2.sql
+
+## Goal: 
+To identify which product is the highest revenue.
+## Insight: 
+The analysis also shows that "Black Orchid Luxury Bar" is the product with the highest revenue.
