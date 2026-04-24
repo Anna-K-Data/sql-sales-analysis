@@ -28,3 +28,9 @@ Overall profit is 2537.40 EUR.
 Overview of the top 3 customers who spent the most money based on completed orders.
 ## Insight: 
 Top 3 customers have IDs: 1, 10, 18.
+
+## Query is available in the SQLQuery5.sql
+## Goal: 
+Find out how many orders were completed, pending, cancelled, and returned in percentage.
+## Insight: 
+Approximately 69% were completed, 14% were pending, 8% were cancelled, and 8% were returned.
